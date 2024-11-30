@@ -127,8 +127,8 @@ This project is part of an academic assignment and is available for educational 
 
 ## 📞 Contact
 Puli Ram Charan Tej
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: ramcharantejpuli@gmail.com
+- GitHub: [ramcharantejpuli](https://github.com/ramcharantejpuli)
 
 ---
 ⭐ Star this repository if you find it helpful!
