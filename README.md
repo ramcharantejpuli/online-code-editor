@@ -117,7 +117,7 @@ src/
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📄 License
-This project is part of an academic assignment and is available for educational purposes.
+This project is part of an internship assignment and is available for educational purposes.
 
 ## 🙏 Acknowledgments
 - VS Code for interface inspiration
